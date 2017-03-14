@@ -1,0 +1,50 @@
+body{
+  background-color: #f6f6f6;
+  font-family: Arial;
+  color: red;
+}
+
+/********** Titres **********/
+
+h1{
+  text-align: center;
+  font-size: 4.5em;
+  text-decoration-color: black;
+  font-family: Times;
+}
+h2
+{
+  text-decoration-color: black;
+}
+p
+{
+  text-decoration-color: grey;
+  text-decoration: line-through;
+  list-style-type: none;
+
+}
+div{
+  width: 400px;
+  margin: 50px auto;
+  padding-left: 40px;
+  background-color: white;
+  border: 2px solid #f0f0f0;
+  border-radius: 5px;
+}
+
+/********** Listes **********/
+
+div ul{
+  list-style-type: circle;
+}
+
+li{
+ width: 200px;
+ border-bottom: 1px dashed grey;
+}
+
+/*********** Paragraphes ***********/
+
+p.done{
+  text-decoration: overline;
+}

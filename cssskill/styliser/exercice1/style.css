@@ -1,0 +1,18 @@
+
+body {
+  text-align: center;
+}
+
+p {
+  width: 75%;
+  margin: 80px auto;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  text-align: left;
+  text-indent: 40px;
+}
+span
+{
+  text-decoration-color: blue;
+  text-transform:capitalize;
+}

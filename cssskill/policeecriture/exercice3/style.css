@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+p {
+  width: 75%;
+  margin: 80px auto;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  text-align: justify;
+}
+h1 , p
+{
+  font-family: Arial , sans-serif;
+}
+span
+{
+  font-family: Times , serif;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.5em;
+}
+h1
+{
+  font-size: 3em;
+}

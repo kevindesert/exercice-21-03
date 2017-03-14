@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+p {
+  width: 75%;
+  margin: 80px auto;
+  border: 1px solid lightgrey;
+  padding: 10px;
+  text-align: right;
+  text-indent: 50px;
+  letter-spacing:2px;
+}
+span
+{
+  color: red;
+  text-transform: capitalize;
+}
